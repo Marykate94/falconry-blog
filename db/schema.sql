@@ -1,0 +1,5 @@
+-- DROP DATABASE
+DROP DATABASE IF EXISTS falconry_database;
+
+-- CREATE DATABASE
+CREATE DATABASE falconry_database;
